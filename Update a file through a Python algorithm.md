@@ -76,7 +76,7 @@ print(ip_addresses)
 ```
 **Workflow Explanation:**  
 
-We want to remove individual IP addresses from the allow list and in order to do so, we need to change IP addresses to be in a list format. We achieve this task by using `.split()`.
+I need to remove individual IP addresses from the allow list and in order to do so, I need to change IP addresses to be in a list format. I achieve this task by using `.split()`.
 
 ## Step 4: Iterate through the remove list
 
